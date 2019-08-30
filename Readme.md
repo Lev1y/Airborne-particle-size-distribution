@@ -126,5 +126,5 @@ Beta_2.0 will envolve:
 * Multiple files processing function
 * Enhancement in stability
 ## Support
-If you enjoy the script, please **star** my work
+If you enjoy the script, please **star** my work  
 Your support is my best motivation
