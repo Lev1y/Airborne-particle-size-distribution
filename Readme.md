@@ -1,7 +1,8 @@
 # Airborne particle size distribution (PSD) data processing
 Version: Beta_1.1  
 Created on 26-Aug-2019    
-Authur: Yang Xuan
+Authur: RicC137
+Email: y.x@u.nus.edu
 ## Cautions
 **YOU MUST IMPORT DATA BEFORE RUNNING THIS CODE**   
 * Import data type: Numeric matrix   
@@ -125,4 +126,5 @@ Beta_2.0 will envolve:
 * Multiple files processing function
 * Enhancement in stability
 ## Support
+If you enjoy the script, please **star** my work
 Your support is my best motivation
