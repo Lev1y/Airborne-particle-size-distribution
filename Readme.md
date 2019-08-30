@@ -1,7 +1,7 @@
 # Airborne particle size distribution (PSD) data processing
 Version: Beta_1.1  
 Created on 26-Aug-2019    
-Authur: RicC137
+Authur: RicC137  
 Email: y.x@u.nus.edu
 ## Cautions
 **YOU MUST IMPORT DATA BEFORE RUNNING THIS CODE**   
