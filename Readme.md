@@ -124,3 +124,5 @@ Beta_2.0 will envolve:
 * User friendly GUI operation pannel
 * Multiple files processing function
 * Enhancement in stability
+## Support
+Your support is my best motivation
