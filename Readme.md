@@ -7,7 +7,7 @@ Email: y.x@u.nus.edu
 **YOU MUST IMPORT DATA BEFORE RUNNING THIS CODE**   
 * Import data type: Numeric matrix   
 * Excluded rows with: Unimportant cells  
-* An exercise can be dowload in [test_demo]()
+* An exercise can be dowloaded in [test_demo]()
 ```matlab
 %% Load spreadsheet
 rawmat = input('The filename occoured in Workspace window: ');
